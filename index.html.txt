@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benereta Hoxha – SAP & Master Data Specialist</title>
+    style.css
+</head>
+
+<body>
+
+<!-- ================= HERO SECTION ================= -->
+<header class="hero">
+    <div class="hero-content glass">
+        profile.png
+        <h1>Benereta Hoxha</h1>
+        <p class="hero-subtitle">Master Data Specialist · SAP ECC · S/4HANA · Supply Chain</p>
+
+        <div class="hero-links">
+            https://www.linkedin.com/in/benereta-hoxha/LinkedIn</a>
+            https://www.datascienceportfol.io/beneretahoxha8Portfolio</a>
+            https://github.com/Benereta88GitHub</a>
+        </div>
+    </div>
+</header>
+
+<!-- ================= ABOUT ================= -->
+<section class="section">
+    <h2>Profil</h2>
+    <p>
+        Strukturerad och analytisk Master Data Specialist inom Supply Chain med fokus på SAP ECC, 
+        S/4HANA, datakvalitet och processförbättringar. Erfarenhet av materialdata, leverantörsdata, 
+        BOM-strukturer, datavalidering och tvärfunktionellt samarbete mellan inköp, logistik och produktion.
+    </p>
+</section>
+
+<!-- ================= ACCORDION – EXPERIENCE ================= -->
+<section class="section">
+    <h2>Arbetslivserfarenhet</h2>
+
+    <div class="accordion">
+
+        <div class="acc-item">
+            <div class="acc-header">Master Data Specialist – DeLaval (2025–2026)</div>
+            <div class="acc-content">
+                <ul>
+                    <li>Underhåll av masterdata i SAP ECC & S/4HANA.</li>
+                    <li>Materialdata, leverantörsdata, BOM, datavalidering.</li>
+                    <li>Processförbättring inom inköp, logistik, produktion.</li>
+                    <li>Datakvalitet & governance i globala flöden.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="acc-item">
+            <div class="acc-header">Administratör – VekuByggmåleri AB (2020–2024)</div>
+            <div class="acc-content">
+                <ul>
+                    <li>Fakturering, kundadministration & offertuppföljning.</li>
+                    <li>Ekonomiuppgifter i Visma.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="acc-item">
+            <div class="acc-header">Ekonomi & Redovisning – Nordic Ride AB (2024)</div>
+            <div class="acc-content">
+                <ul>
+                    <li>Ekonomiadministration & rapporthantering.</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- ================= TECH SKILLS ================= -->
+<section class="section">
+    <h2>Tekniska Kompetenser</h2>
+    <div class="chip-list">
+        <span class="chip">SAP ECC</span>
+        <span class="chip">SAP S/4HANA</span>
+        <span class="chip">SAP MM</span>
+        <span class="chip">SQL</span>
+        <span class="chip">Python</span>
+        <span class="chip">JavaScript</span>
+        <span class="chip">PySpark</span>
+        <span class="chip">GitHub</span>
+        <span class="chip">PostgreSQL</span>
+        <span class="chip">MySQL</span>
+        <span class="chip">Datamodellering</span>
+        <span class="chip">DrawSQL</span>
+        <span class="chip">Miro</span>
+    </div>
+</section>
+
+<!-- ================= SKILLS CHART ================= -->
+<section class="section">
+    <h2>Skills‑Radar</h2>
+    skills-radar.png
+</section>
+
+<!-- ================= EDUCATION ================= -->
+<section class="section">
+    <h2>Utbildning</h2>
+    <ul>
+        <li><strong>Data Manager (YH)</strong> – TUC Yrkeshögskola (2024–2026)</li>
+        <li><strong>Ekonomi</strong> – Jensen Gymnasium</li>
+    </ul>
+</section>
+
+<!-- ================= CERTIFICATES ================= -->
+<section class="section">
+    <h2>Certifikat</h2>
+    <ul>
+        <li>Google AI Essentials</li>
+        <li>Design & Data Governance (LinkedIn Learning)</li>
+        <li>SAP Professional Fundamentals</li>
+        <li>SAP ECC – DeLaval</li>
+        <li>Data Protection & GDPR</li>
+    </ul>
+</section>
+
+<!-- ================= QR CODE ================= -->
+<section class="section qr-section">
+    <h2>QR‑kod till hemsidan</h2>
+    qr.png
+</section>
+
+<footer>
+    © 2026 Benereta Hoxha – SAP / Master Data Specialist
+</footer>
+
+script.js</script>
+</body>
+</html>

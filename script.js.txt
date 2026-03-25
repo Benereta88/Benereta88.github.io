@@ -1,0 +1,24 @@
+// PREMIUM ACCORDION
+const items = document.querySelectorAll(".acc-item");
+
+items.forEach(item => {
+    const header = item.querySelector(".acc-header");
+    const content = item.querySelector(".acc-content");
+
+    header.addEventListener("click", () => {
+
+        // Close other items
+        items.forEach(i => {
+            if (i !== item) {
+                i.querySelector(".acc-content").style.maxHeight = null;
+            }
+        });
+
+        // Toggle this one
+        if (content.style.maxHeight) {
+            content.style.maxHeight = null;
+        } else {
+            content.style.maxHeight = content.scrollHeight + "px";
+        }
+    });
+});
